@@ -1,4 +1,4 @@
-Django==2.2.3
+Django==2.2.27
 django-colorfield==0.1.15
 django-faicon==0.1.0
 django-messages-to-bootstrap-notify==0.2.6
